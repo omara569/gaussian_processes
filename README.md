@@ -1,0 +1,2 @@
+# Gaussian Processes 
+This repository is dedicated to learning about Gaussian Processes and, by extention, Gaussian Process Regression. Gaussian Processes Regression is often used for tasks such as hyperparameter optimization and is incredibly valuable in the fields of AI and Machine Learning
